@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Munkhbayr/Platinum-training-site-bayraa#readme",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
